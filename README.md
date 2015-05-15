@@ -10,20 +10,20 @@
 http://www.duitang.com/album/1733789/  
 http://www.duitang.com/album/1733789/masn/p/0/24/  
 
-为什么选择这个实例  
+### 为什么选择这个实例  
 1. 简单的实例没有吸引力
 2. 如果太简单，如何体现Android的强大呢？
 
-开发过程  
-1. 工程创建  
-2. 页面布局，RecyclerView初始化  
-3. Adapter编写，静态页面展示(先纯字符串，然后加入图片)  
+### 开发过程  
+1. 工程创建
+2. 页面布局，RecyclerView初始化
+3. Adapter编写，静态页面展示(先纯字符串，然后加入图片)
 4. 网络获取数据(现在浏览器展示请求数据效果，然后在程序里实现)
 5. 数据解析(现在浏览器展示数据结构，然后在程序里解析)
 6. 展示网络数据(先设置字符串，然后加载图片)
 7. 页面微调(展现xml文件的好处，页面布局调整无需修改代码)
 
-简单回顾整个过程
+### 简单回顾整个过程
 1. 页面布局(xml)
 2. 基本控件使用
 3. 网络访问与数据解析
@@ -43,5 +43,5 @@ http://hukai.me/android-training-course-in-chinese/index.html
 更接地气的视频教程，请认准极客学院  
 http://www.jikexueyuan.com/  
 
-开源项目推荐
+开源项目推荐  
 https://github.com/dongorigin/AndroidTraining/blob/master/Share/README.md  
