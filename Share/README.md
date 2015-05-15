@@ -1,14 +1,15 @@
 # 开源项目推荐
 
-开源项目分类汇总  
+Android开源项目分类汇总  
 https://github.com/Trinea/android-open-project  
-UI/UX汇总  
+Android UI/UX汇总  
 https://github.com/wasabeef/awesome-android-ui  
-Square开源项目  
+Square 开源项目(不限于Android)  
 http://square.github.io/  
 
-开源应用  
+完整开源应用  
 https://github.com/google/iosched Google IO  
+https://github.com/googlesamples/android-UniversalMusicPlayer Google 通用音乐播放
 https://github.com/forkhubs/android Github  
 
 网络  
@@ -43,7 +44,6 @@ https://github.com/emilsjolander/StickyListHeaders 支持StickyHeader的ListView
 
 其他  
 https://github.com/futurice/android-best-practices Android 最佳实践  
-https://github.com/googlesamples/android-UniversalMusicPlayer Google 通用音乐播放  
 https://github.com/navasmdc/MaterialDesignLibrary Material Design Library  
 https://github.com/afollestad/material-dialogs Material Dialog  
 https://github.com/WhisperSystems/TextSecure 加密通信  
