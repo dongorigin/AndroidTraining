@@ -8,7 +8,7 @@ Square 开源项目(不限于Android)
 http://square.github.io/  
 
 完整开源应用  
-https://github.com/google/iosched Google IO  
+https://github.com/google/iosched Google I/O 2014 App  
 https://github.com/googlesamples/android-UniversalMusicPlayer Google 通用音乐播放
 https://github.com/forkhubs/android Github  
 
@@ -19,7 +19,7 @@ https://github.com/square/retrofit REST client
 https://github.com/google/gson Json解析  
 
 图片加载  
-https://github.com/nostra13/Android-Universal-Image-Loader UIL  
+https://github.com/nostra13/Android-Universal-Image-Loader UIL 通用图片加载  
 https://github.com/square/picasso square  
 https://github.com/facebook/fresco facebook图片加载  
 https://github.com/bumptech/glide google推荐  
