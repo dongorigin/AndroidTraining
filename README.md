@@ -1,5 +1,4 @@
-# Android入门
----
+# Android入门课程
 ## 目录结构
 - Sample Android实例工程，全部实例最终都会汇总至这个工程中
 - Share 资料分享
