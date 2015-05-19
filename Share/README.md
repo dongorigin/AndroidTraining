@@ -11,6 +11,7 @@ http://square.github.io/
 https://github.com/google/iosched Google I/O 2014 App  
 https://github.com/googlesamples/android-UniversalMusicPlayer Google 通用音乐播放
 https://github.com/forkhubs/android Github  
+https://github.com/chrisbanes/philm 电影信息app  
 
 网络  
 https://github.com/loopj/android-async-http  
