@@ -1,46 +1,45 @@
-# AndroidÓÅĞã²©¿Í·ÖÏí
-## ¹úÍâ
+# Androidä¼˜ç§€åšå®¢åˆ†äº«
+## å›½å¤–
 http://android-developers.blogspot.com/  
-Ê×ÏÈÊÇ×îÖØÒªµÄ£¬Android¹Ù·½²©¿Í£¬´óÁ¿¸É»õ³öÃ»£¬×îĞÂÌØĞÔ½éÉÜ  
+é¦–å…ˆæ˜¯æœ€é‡è¦çš„ï¼ŒAndroidå®˜æ–¹åšå®¢ï¼Œå¤§é‡å¹²è´§å‡ºæ²¡ï¼Œæœ€æ–°ç‰¹æ€§ä»‹ç»  
 
 https://chris.banes.me/  
-Google Android¿ª·¢×é³ÉÔ±£¬¾­³£·ÖÏíAndroid×îĞÂÌØĞÔµÄÊ¹ÓÃ£¬ÓÈÆäÊÇsupport libraryÖ§³Ö¿âµÄÊ¹ÓÃ  
+Google Androidå¼€å‘ç»„æˆå‘˜ï¼Œç»å¸¸åˆ†äº«Androidæœ€æ–°ç‰¹æ€§çš„ä½¿ç”¨ï¼Œå°¤å…¶æ˜¯support libraryæ”¯æŒåº“çš„ä½¿ç”¨  
 
 http://inthecheesefactory.com/blog  
-¸Õ¿ª²©µÄÒ»¸öÍá¹úÈË£¬Í¼ÎÄ²¢Ã¯ÌõÀíÇåÎú£¬ÆÚ´ıÆä¼ÌĞø¸üĞÂ¡£
+åˆšå¼€åšçš„ä¸€ä¸ªæ­ªå›½äººï¼Œå›¾æ–‡å¹¶èŒ‚æ¡ç†æ¸…æ™°ï¼ŒæœŸå¾…å…¶ç»§ç»­æ›´æ–°
 
 
-## ¹úÄÚ
-http://www.trinea.cn/
-[Android¿ªÔ´ÏîÄ¿·ÖÀà»ã×Ü](https://github.com/Trinea/android-open-project)Óë[¿ªÔ´ÏîÄ¿Ô´Âë½âÎö](http://codekk.com/open-source-project-analysis)µÄ·¢ÆğÈË£¬ÆäÖĞ·ÖÀà»ã×ÜÏîÄ¿ÔÚgithub Android·ÖÀàÅÅÃûµÚ¶ş¡£
-²©¿ÍÖĞÓĞĞí¶àAndroidĞÔÄÜÓÅ»¯µÄÎÄÕÂ
+## å›½å†…
+http://www.trinea.cn/  
+[Androidå¼€æºé¡¹ç›®åˆ†ç±»æ±‡æ€»](https://github.com/Trinea/android-open-project)ä¸[å¼€æºé¡¹ç›®æºç è§£æ](http://codekk.com/open-source-project-analysis)çš„å‘èµ·äººï¼Œå…¶ä¸­åˆ†ç±»æ±‡æ€»é¡¹ç›®åœ¨github Androidåˆ†ç±»æ’åç¬¬äºŒã€‚åšå®¢ä¸­æœ‰è®¸å¤šAndroidæ€§èƒ½ä¼˜åŒ–çš„æ–‡ç« 
 
-http://www.stormzhang.com/
-[ÈçºÎ×ÔÑ§android±à³Ì£¿](http://www.zhihu.com/question/26417244)ÎÄÕÂµÄ×÷Õß£¬±¡ºÉAndroidÍÅ¶Ó¸ºÔğÈË¡£²©¿ÍÖĞ·ÖÏíÁË´óÁ¿¿ª·¢¼¼ÇÉ£¬±ÈÈçAndroid StudioÏµÁĞ½Ì³Ì¡£
+http://www.stormzhang.com/  
+[å¦‚ä½•è‡ªå­¦androidç¼–ç¨‹ï¼Ÿ](http://www.zhihu.com/question/26417244)æ–‡ç« çš„ä½œè€…ï¼Œè–„è·Androidå›¢é˜Ÿè´Ÿè´£äººã€‚åšå®¢ä¸­åˆ†äº«äº†å¤§é‡å¼€å‘æŠ€å·§ï¼Œæ¯”å¦‚Android Studioç³»åˆ—æ•™ç¨‹ã€‚
 
-http://blog.daimajia.com/
-ÔÚ[github](https://github.com/daimajia)ÉÏstar¹ıÍòµÄ´óÅ££¬×¨×¢¿ªÔ´Óë·ÖÏí£¬ÏÖÔÚÎ¬»¤¼¼Êõ·ÖÏíÍøÕ¾[¸É»õ¼¯ÖĞÓª](http://gank.io/)
+http://blog.daimajia.com/  
+åœ¨[github](https://github.com/daimajia)ä¸Šstarè¿‡ä¸‡çš„å¤§ç‰›ï¼Œä¸“æ³¨å¼€æºä¸åˆ†äº«ï¼Œç°åœ¨ç»´æŠ¤æŠ€æœ¯åˆ†äº«ç½‘ç«™[å¹²è´§é›†ä¸­è¥](http://gank.io/)
 
-http://blog.csdn.net/luoshengyang
-¡¶AndroidÏµÍ³Ô´´úÂëÇé¾°·ÖÎö¡·µÄ×÷Õß£¬×¨×¢Ô´Âë½âÎö
+http://blog.csdn.net/luoshengyang  
+ã€ŠAndroidç³»ç»Ÿæºä»£ç æƒ…æ™¯åˆ†æã€‹çš„ä½œè€…ï¼Œä¸“æ³¨æºç è§£æ
 
-http://hukai.me/
-Android TrainingĞ­×÷·­ÒëÏîÄ¿·¢ÆğÈË£¬²©¿ÍÖĞÓĞ´óÁ¿¹Ù·½×ÊÁÏµÄÒëÎÄ
+http://hukai.me/  
+Android Trainingåä½œç¿»è¯‘é¡¹ç›®å‘èµ·äººï¼Œåšå®¢ä¸­æœ‰å¤§é‡å®˜æ–¹èµ„æ–™çš„è¯‘æ–‡
 
-http://www.cnblogs.com/popapa/
-AndroidÎÄµµ·­Òë×é³ÉÔ±£¬·­ÒëÁË´óÁ¿Android APIÎÄµµ
+http://www.cnblogs.com/popapa/  
+Androidæ–‡æ¡£ç¿»è¯‘ç»„æˆå‘˜ï¼Œç¿»è¯‘äº†å¤§é‡Android APIæ–‡æ¡£
 
-http://drakeet.me/
-±´¿Çµ¥´Ê×÷Õß£¬ĞİÑ§´´ÒµÖĞµÄ´óÑ§Éú£¬¸ĞÊÜĞÂÑªµÄÁ¦Á¿
+http://drakeet.me/  
+è´å£³å•è¯ä½œè€…ï¼Œä¼‘å­¦åˆ›ä¸šä¸­çš„å¤§å­¦ç”Ÿï¼Œæ„Ÿå—æ–°è¡€çš„åŠ›é‡
 
-http://blog.csdn.net/guolin_blog
-¹ùÁØ£¬¡¶µÚÒ»ĞĞ´úÂë¡·×÷Õß£¬·ÖÏí´óÁ¿AndroidÎÄÕÂ
+http://blog.csdn.net/guolin_blog  
+éƒ­éœ–ï¼Œã€Šç¬¬ä¸€è¡Œä»£ç ã€‹ä½œè€…ï¼Œåˆ†äº«å¤§é‡Androidæ–‡ç« 
 
-http://www.fookwood.com/
-×¨×¢Launcher3Ô­Àí½âÎö£¬ÎÄÕÂ´ó²¿·Ö¶¼±È½ÏÉîÈë
+http://www.fookwood.com/  
+ä¸“æ³¨Launcher3åŸç†è§£æï¼Œæ–‡ç« å¤§éƒ¨åˆ†éƒ½æ¯”è¾ƒæ·±å…¥
 
-»¹ÓĞºÃ¶àºÃ²©¿Í£¬²»Ò»Ò»½éÉÜÁË£¬ÈÕºóÂıÂı²¹È«
-http://angeldevil.me/
-http://blog.csdn.net/lmj623565791
-http://blog.csdn.net/xiaanming
-http://blog.csdn.net/qinjuning
+è¿˜æœ‰å¥½å¤šå¥½åšå®¢ï¼Œä¸ä¸€ä¸€ä»‹ç»äº†ï¼Œæ—¥åæ…¢æ…¢è¡¥å…¨  
+http://angeldevil.me/  
+http://blog.csdn.net/lmj623565791  
+http://blog.csdn.net/xiaanming  
+http://blog.csdn.net/qinjuning  
