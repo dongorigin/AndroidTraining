@@ -9,21 +9,21 @@
 
 ## 分享
 ### Java学习  
-入门，推荐《Head First Java》，即使没有学过编程的人也可以通过这本书入门。 
-进阶，推荐《Effective Java》，连Java之父都需要的书，Java最佳实践。
+入门，推荐《Head First Java》，即使没有学过编程的人也可以通过这本书入门。  
+进阶，推荐《Effective Java》，连Java之父都需要的书，Java最佳实践。  
 
 ### Android学习  
-推荐官方教程，最新最好的Android教程
+推荐官方教程，最新最好的Android教程  
 http://developer.android.com/training/index.html  
 当然假如你的英文和我一样烂的话，可以看协作翻译版  
 http://hukai.me/android-training-course-in-chinese/index.html  
-Android开发官方视频，最新特性讲解与最佳实践
-https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg
+Android开发官方视频，最新特性讲解与最佳实践  
+https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg  
 更接地气的视频教程，请认准极客学院  
 http://www.jikexueyuan.com/  
 
 ### 开源项目推荐  
-https://github.com/dongorigin/AndroidTraining/blob/master/Share/README.md  
+https://github.com/dongorigin/AndroidTraining/blob/master/Share/README.md 
 
 ### 开源博客推荐  
-https://github.com/dongorigin/AndroidTraining/blob/master/Share/blog.md
+https://github.com/dongorigin/AndroidTraining/blob/master/Share/blog.md  
