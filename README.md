@@ -25,5 +25,5 @@ http://www.jikexueyuan.com/
 ### 开源项目推荐  
 https://github.com/dongorigin/AndroidTraining/blob/master/Share/README.md 
 
-### 开源博客推荐  
+### 优秀博客推荐  
 https://github.com/dongorigin/AndroidTraining/blob/master/Share/blog.md  
